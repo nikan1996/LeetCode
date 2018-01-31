@@ -22,7 +22,7 @@ return [0, 1].
 
 class Solution(object):
     def twoSum(self, nums, target):
-        """
+        """通过构造一个 dict 来使得第二个数字的查询达到最好 O(1)的时间复杂度
         Time Complexity: O(n)
         Space Complaxity: O(1)
         :type nums: List[int]
