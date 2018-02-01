@@ -32,7 +32,7 @@ Explanation: 342 + 465 = 807.
 
 class Solution:
     def addTwoNumbers(self, l1, l2):
-        """
+        """ 相加两个链表对应位置的值， 需要考虑链表长短不一致 以及值相加产生进位的情况。
         :type l1: ListNode
         :type l2: ListNode
         :rtype: ListNode

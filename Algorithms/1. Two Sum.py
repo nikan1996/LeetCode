@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
     @author:nikan(859905874@qq.com)
-    @file: 1.Two Sum.py
+    @file: 1. Two Sum.py
     
     ~~~~~~~~~~~
     :license: MIT, see LICENSE for more details.
